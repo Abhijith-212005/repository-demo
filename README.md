@@ -1,2 +1,3 @@
 # repository-demo
-This is my first GitHub Repository
+This is my first Git Repository
+Author-Abhijith P
